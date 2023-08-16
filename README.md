@@ -1,2 +1,1 @@
-#1 Hello
-#2 양명진
+This is my first git study.
